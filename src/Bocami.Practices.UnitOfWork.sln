@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bocami.Practices.UnitOfWork", "Bocami.Practices.UnitOfWork\Bocami.Practices.UnitOfWork.csproj", "{16952E4E-6A01-4581-AA51-951314A8D105}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bocami.Practices.UnitOfWork.EntityFramework", "Bocami.Practices.UnitOfWork.EntityFramework\Bocami.Practices.UnitOfWork.EntityFramework.csproj", "{831BF7AF-D82F-4D71-9BE9-42E53462B141}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16952E4E-6A01-4581-AA51-951314A8D105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16952E4E-6A01-4581-AA51-951314A8D105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16952E4E-6A01-4581-AA51-951314A8D105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16952E4E-6A01-4581-AA51-951314A8D105}.Release|Any CPU.Build.0 = Release|Any CPU
+		{831BF7AF-D82F-4D71-9BE9-42E53462B141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{831BF7AF-D82F-4D71-9BE9-42E53462B141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{831BF7AF-D82F-4D71-9BE9-42E53462B141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{831BF7AF-D82F-4D71-9BE9-42E53462B141}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
